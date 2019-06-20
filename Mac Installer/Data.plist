@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>licenseInfo</key>
+	<string></string>
+	<key>keepInstallersLocally</key>
+	<false/>
+	<key>organisationName</key>
+	<string>Mac Installer</string>
+	<key>checkUpdatesAtStartup</key>
+	<true/>
+	<key>browserExtensions</key>
+	<array>
+		<array>
+			<string>Adblock Plus</string>
+			<string>https://safari-extensions.apple.com/details/?id=org.adblockplus.adblockplussafari-GRYYZR985A</string>
+			<string>https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb</string>
+		</array>
+		<array>
+			<string>HTTPS Everywhere</string>
+			<string></string>
+			<string>https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp</string>
+		</array>
+		<array>
+			<string>Grammarly</string>
+			<string>https://safari-extensions.apple.com/details/?id=com.grammarly.spellchecker.extension-W8F64X92K3</string>
+			<string>https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen</string>
+		</array>
+		<array>
+			<string>OneNote Web Clipper</string>
+			<string>https://safari-extensions.apple.com/details/?id=com.microsoft.onenote.clipper-UBF8T346G9</string>
+			<string>https://chrome.google.com/webstore/detail/onenote-web-clipper/gojbdfnpnhogfdgjbigejoaolejmgdhk</string>
+		</array>
+	</array>
+</dict>
+</plist>

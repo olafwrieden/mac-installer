@@ -1,0 +1,9 @@
+How to use the Certificates folder:
+
+FUNCTION & PURPOSE
+    If you have custom network certificates, copy them into this folder to become visible to the application.
+    You may now install these network certificates on future Macs (done in the Network Certificate step of the BYOD Mac Installer).
+
+SPECIAL REQUIREMENTS
+    1.  Please note that the file extension of your custom background file must be .crt to be readable.
+    2.  While your file name(s) are totally up to you, the name of this folder and its parent folder(s) must NOT be changed!

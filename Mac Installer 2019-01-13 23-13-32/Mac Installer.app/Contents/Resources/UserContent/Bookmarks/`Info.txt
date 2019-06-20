@@ -1,0 +1,9 @@
+How to use the Bookmarks folder:
+
+FUNCTION & PURPOSE
+    If you have custom bookmarks, copy them (in their exported html format) into this folder to become visible to the application.
+    You may now add these bookmarks to Chrome automatically or copy any of their file locations to import into other browsers (done in the Browser Configuration step of the BYOD Mac Installer).
+
+SPECIAL REQUIREMENTS
+    1.  Please note that the file extension of your custom background file must be .html to be readable.
+    2.  While your file name(s) are totally up to you, the name of this folder and its parent folder(s) must NOT be changed!

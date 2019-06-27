@@ -136,5 +136,7 @@ The fully featured and unrestricted Mac Installer which can be launched from any
 ## Getting Started
 A short guide is located on Mac Installer's official website, and can be found on the [Getting Started](https://macinstaller.com/guide.html) page.
 
+If you are interested in how this product has evolved over time, see the [Changelog](https://macinstaller.com/changelog.html) for more information.
+
 ### See something that can be improved?
 While this is not an active project of mine, I would love to hear from you. Feel free to submit a Pull Request if you can improve this repository, or open an issue should you encounter a bug. 🐞

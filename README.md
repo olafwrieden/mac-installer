@@ -47,10 +47,10 @@ Many of the Mac's advanced, and often hard-to-find settings have been collated i
 ![Advanced Settings](/screenshots/advanced-options.png)
 
 ## Product Licencing
-#### Mac Installer Basic
+#### [Mac Installer Basic](https://macinstaller.com/software/mac-installer-2019-basic.html)
 Single License, designed for the one-man-team. During the initial registration process, Mac Installer is licensed to 1 USB drive of your choosing (can be changed later). Once registered, you can only launch Mac Installer from that USB drive. Cloning the license to additional drives (e.g. to support multiple field technicians) is a feature of the Professional Edition.
 
-#### Mac Installer Professional
+#### [Mac Installer Professional](https://macinstaller.com/software/mac-installer-2019-pro.html)
 The fully featured and unrestricted Mac Installer which can be launched from any location (incl. Network Shares) to serve larger campuses or repair shops. In multi-user / team environments, Mac Installer allows each member (e.g. technician) to have their own USB key using the same Professional license key (in-house distribution).
 
 #### Key Difference
@@ -133,6 +133,8 @@ The fully featured and unrestricted Mac Installer which can be launched from any
   </tbody>
 </table>
 
+## Getting Started
+A short guide is located on Mac Installer's official website, and can be found on the [Getting Started](https://macinstaller.com/guide.html) page.
 
 ### See something that can be improved?
 While this is not an active project of mine, I would love to hear from you. Feel free to submit a Pull Request if you can improve this repository, or open an issue should you encounter a bug. 🐞
